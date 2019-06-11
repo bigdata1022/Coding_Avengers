@@ -11,3 +11,4 @@ ipak <- function(pkg){
 # usage
 packages <- c("ggplot2", "plyr", "reshape2", "RColorBrewer", "scales", "grid")
 ipak(packages)
+aa
