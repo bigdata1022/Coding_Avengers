@@ -12,3 +12,4 @@ ipak <- function(pkg){
 packages <- c("ggplot2", "plyr", "reshape2", "RColorBrewer", "scales", "grid")
 ipak(packages)
 aa
+dd
